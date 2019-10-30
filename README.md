@@ -1,2 +1,2 @@
 # reprograma-html
-Exercícios de estruturação básica de HTML com inserção de imagens. Também foi exemplificado como adicionar contribuidores aos projetos no GIT.
+Exercícios de estruturação básica de HTML com inserção de imagens e explicação de como adicionar contribuidores aos projetos no GIT.
